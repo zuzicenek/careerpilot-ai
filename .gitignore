@@ -1,0 +1,8 @@
+
+# Tajné údaje – nikdy neukládat do Gitu
+config.local.php
+.env
+.env.*
+
+# Záložní a dočasné soubory
+*.log
